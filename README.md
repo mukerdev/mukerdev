@@ -1,6 +1,6 @@
 ### Hi there 👋
-주니어 개발자
-Swift
+🧑🏻‍💻 I'm currently learning iOS development!
+
 <!--
 **mukerdev/mukerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
